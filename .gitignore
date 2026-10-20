@@ -1,0 +1,10 @@
+# 저장소 전체에서 Git에 올리지 않을 파일 목록입니다.
+
+# Claude Code 개인 작업 지침 (로컬 전용)
+CLAUDE.md
+
+# Python 실행 시 자동 생성되는 캐시
+__pycache__/
+
+# macOS 시스템 파일
+.DS_Store
